@@ -11,3 +11,6 @@ git commit "添加注释"
 git push git@github.com:dinghangxing/-gitHub      (:用户名/项目名)  推送到github远程库
 
 git pull git@github.com:dinghangxing/-gitHub       从远程库拉取有修改的文件  
+
+哈哈哈哈
+
