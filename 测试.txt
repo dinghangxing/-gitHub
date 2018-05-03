@@ -1,3 +1,13 @@
-测试下   哈哈哈哈哈     https://my.oschina.net/bxxfighting/blog/378196   https://www.jianshu.com/p/7fa6b2d81f19    哈哈哈哈哈，我在gitHub上面修改了这句话  刷新试试
+﻿测试下   哈哈哈哈哈     https://my.oschina.net/bxxfighting/blog/378196   https://www.jianshu.com/p/7fa6b2d81f19    哈哈哈哈哈，我在gitHub上面修改了这句话  刷新试试
 
 再次修改一下
+
+
+
+git add test.txt(文件名，带后缀，或者是 . 英文句号代表全部) 添加文件
+
+git commit "添加注释"
+
+git push git@github.com:dinghangxing/-gitHub      (:用户名/项目名)  推送到github远程库
+
+git pull git@github.com:dinghangxing/-gitHub       从远程库拉取有修改的文件  
