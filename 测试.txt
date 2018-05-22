@@ -6,7 +6,7 @@
 
 git add test.txt(文件名，带后缀，或者是 . 英文句号代表全部) 添加文件
 
-git commit "添加注释"
+git commit -m "添加注释"
 
 git push git@github.com:dinghangxing/-gitHub      (:用户名/项目名)  推送到github远程库
 
